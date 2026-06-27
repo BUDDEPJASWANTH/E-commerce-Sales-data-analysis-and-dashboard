@@ -103,3 +103,6 @@ The E-Commerce Sales Data Analysis and Dashboard project provides a comprehensiv
 * Real-time dashboard integration
 * AI-based recommendation systems
 * Automated report generation
+## Dashboard
+<img width="1890" height="845" alt="E-commerce Sales Data Analysis and dashboard" src="https://github.com/user-attachments/assets/8d598916-93dc-42b9-a290-50ae570229ed" />
+
